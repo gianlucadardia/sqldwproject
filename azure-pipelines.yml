@@ -24,11 +24,18 @@ steps:
   inputs:
     restoreSolution: '$(solution)'
 
+- task: UseDotNet@2
+  inputs:
+    packageType: 'sdk'
+    version: '2.x'
+    
 - task: VSBuild@1
   inputs:
     solution: '$(solution)'
     platform: '$(buildPlatform)'
     configuration: '$(buildConfiguration)'
+
+
 
 - task: VSTest@2
   inputs:

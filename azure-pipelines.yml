@@ -13,7 +13,7 @@ variables:
   system.debug: true
   basePath: 'sql'
   sqlDwSolutionName: 'ddo_azuresqldw_dw'
-  solution: '**/*.sln'
+  solution: '*.sqlproj'
   buildPlatform: 'Any CPU'
   buildConfiguration: 'Release'
 

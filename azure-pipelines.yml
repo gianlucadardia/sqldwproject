@@ -6,6 +6,12 @@
 trigger:
 - master
 
+variables:
+  system.debug: false
+  sqlDwSolutionName: 'ddo_azuresqldw_dw'
+  buildPlatform: 'Any CPU'
+  buildConfiguration: 'Release'
+
 pool:
   vmImage: ubuntu-latest
 
@@ -21,3 +27,9 @@ steps:
 - task: DotNetCoreCLI@2
   inputs:
     command: 'build'
+
+- task: PublishBuildArtifacts@1
+  inputs:
+    PathtoPublish: '$(sqlDwSolutionName)/bin/$(buildConfiguration)/ddo_azuresqldw_dw.dacpac'
+    ArtifactName: 'sql_dw_dacpac'
+  displayName: 'Publish SQL DACPAC'

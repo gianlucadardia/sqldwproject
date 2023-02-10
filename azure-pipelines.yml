@@ -30,6 +30,6 @@ steps:
 
 - task: PublishBuildArtifacts@1
   inputs:
-    PathtoPublish: '$(sqlDwSolutionName)/bin/Debug/sqldwproject.dacpac'
+    PathtoPublish: 'bin/Debug/sqldwproject.dacpac'
     ArtifactName: 'sql_dw_dacpac'
   displayName: 'Publish SQL DACPAC'

@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Name>sqldwproject</Name>
     <ProjectGuid>{3A6E58BC-AF54-422A-851D-654C66CBE625}</ProjectGuid>
-    <DSP>Microsoft.Data.Tools.Schema.Sql.SqlAzureV12DatabaseSchemaProvider</DSP>
+    <DSP>Microsoft.Data.Tools.Schema.Sql.SqlDwDatabaseSchemaProvider</DSP>
     <ModelCollation>1033, CI</ModelCollation>
   </PropertyGroup>
   <Target Name="BeforeBuild">

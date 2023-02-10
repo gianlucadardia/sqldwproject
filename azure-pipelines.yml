@@ -27,7 +27,7 @@ steps:
 - task: UseDotNet@2
   inputs:
     packageType: 'sdk'
-    version: '2.x'
+    version: '4.x'
     
 - task: VSBuild@1
   inputs:

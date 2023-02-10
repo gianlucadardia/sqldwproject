@@ -1,0 +1,10 @@
+c:\code\sqldwproject\sqldwproject\bin\Debug\sqldwproject.dacpac
+c:\code\sqldwproject\sqldwproject\obj\Debug\sqldwproject.sqlproj.AssemblyReference.cache
+c:\code\sqldwproject\sqldwproject\obj\Debug\Model.xml
+c:\code\sqldwproject\sqldwproject\obj\Debug\refactor.xml
+c:\code\sqldwproject\sqldwproject\obj\Debug\postdeploy.sql
+c:\code\sqldwproject\sqldwproject\obj\Debug\predeploy.sql
+c:\code\sqldwproject\sqldwproject\obj\Debug\sqldwproject.dll
+c:\code\sqldwproject\sqldwproject\obj\Debug\sqldwproject.pdb
+c:\code\sqldwproject\sqldwproject\bin\Debug\sqldwproject.dll
+c:\code\sqldwproject\sqldwproject\bin\Debug\sqldwproject.pdb

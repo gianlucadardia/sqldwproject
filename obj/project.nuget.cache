@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "g4nAbqTKugM78boEC8fhOcqsA20ZPmJnFwDHu+9Zz1DkssI/021Dz/v/rtaELTZR/NRrzI0uh17b6gvr9nweDw==",
+  "dgSpecHash": "RMvqnfnif9amwD15yGJl7l6CypCyT9r6/x/P6xgXUCMS3kBU1GUH8RgjEck5ZylV0TTIV791J/i7rizxGk+VeQ==",
   "success": true,
-  "projectFilePath": "c:\\code\\sqldwproject\\sqldwproject\\sqldwproject.sqlproj",
+  "projectFilePath": "c:\\code\\sqldwproject\\sqldwproject.sqlproj",
   "expectedPackageFiles": [
     "C:\\Users\\gdardia\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
     "C:\\Users\\gdardia\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512"

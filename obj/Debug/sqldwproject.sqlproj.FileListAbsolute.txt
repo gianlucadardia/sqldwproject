@@ -8,3 +8,13 @@ c:\code\sqldwproject\sqldwproject\obj\Debug\sqldwproject.dll
 c:\code\sqldwproject\sqldwproject\obj\Debug\sqldwproject.pdb
 c:\code\sqldwproject\sqldwproject\bin\Debug\sqldwproject.dll
 c:\code\sqldwproject\sqldwproject\bin\Debug\sqldwproject.pdb
+c:\code\sqldwproject\bin\Debug\sqldwproject.dacpac
+c:\code\sqldwproject\bin\Debug\sqldwproject.dll
+c:\code\sqldwproject\bin\Debug\sqldwproject.pdb
+c:\code\sqldwproject\obj\Debug\sqldwproject.sqlproj.AssemblyReference.cache
+c:\code\sqldwproject\obj\Debug\Model.xml
+c:\code\sqldwproject\obj\Debug\refactor.xml
+c:\code\sqldwproject\obj\Debug\postdeploy.sql
+c:\code\sqldwproject\obj\Debug\predeploy.sql
+c:\code\sqldwproject\obj\Debug\sqldwproject.dll
+c:\code\sqldwproject\obj\Debug\sqldwproject.pdb

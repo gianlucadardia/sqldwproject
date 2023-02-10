@@ -369,11 +369,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\code\\sqldwproject\\sqldwproject\\sqldwproject.sqlproj",
+      "projectUniqueName": "c:\\code\\sqldwproject\\sqldwproject.sqlproj",
       "projectName": "sqldwproject",
-      "projectPath": "c:\\code\\sqldwproject\\sqldwproject\\sqldwproject.sqlproj",
+      "projectPath": "c:\\code\\sqldwproject\\sqldwproject.sqlproj",
       "packagesPath": "C:\\Users\\gdardia\\.nuget\\packages\\",
-      "outputPath": "c:\\code\\sqldwproject\\sqldwproject\\obj\\",
+      "outputPath": "c:\\code\\sqldwproject\\obj\\",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
       "fallbackFolders": [

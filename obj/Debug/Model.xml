@@ -12,7 +12,7 @@
 		</CustomData>
 		<CustomData Category="Reference" Type="Assembly">
 			<Metadata Name="LogicalName" Value="sqldwproject.dll" />
-			<Metadata Name="FileName" Value="c:\code\sqldwproject\sqldwproject\obj\Debug\sqldwproject.dll" />
+			<Metadata Name="FileName" Value="c:\code\sqldwproject\obj\Debug\sqldwproject.dll" />
 			<Metadata Name="AssemblyName" Value="sqldwproject" />
 			<Metadata Name="PermissionSet" Value="SAFE" />
 			<Metadata Name="Owner" Value="" />
@@ -20,7 +20,7 @@
 			<Metadata Name="IsVisible" Value="True" />
 			<Metadata Name="IsModelAware" Value="True" />
 			<Metadata Name="SkipCreationIfEmpty" Value="True" />
-			<Metadata Name="AssemblySymbolsName" Value="c:\code\sqldwproject\sqldwproject\obj\Debug\sqldwproject.pdb" />
+			<Metadata Name="AssemblySymbolsName" Value="c:\code\sqldwproject\obj\Debug\sqldwproject.pdb" />
 		</CustomData>
 		<CustomData Category="SqlCmdVariables" Type="SqlCmdVariable" />
 	</Header>
